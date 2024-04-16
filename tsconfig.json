@@ -9,6 +9,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "ngx-message": [
+        "./dist/ngx-message"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
